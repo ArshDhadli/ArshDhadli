@@ -1,5 +1,10 @@
-## Hi there 👋
+# 👋 Hi, I'm Arshpreet Singh!
 
+### 🧑‍💻 About Me
+- 🎓 I am currently studying **[Bachelor's, e.g., Computer Science]** at **MUN**.
+- ⚡ Fun fact: **[I produce music as well!]**
+
+---
 <!--
 **ArshDhadli/ArshDhadli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
