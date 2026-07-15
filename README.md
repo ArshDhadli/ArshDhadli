@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arshpreet Singh!
 
 ### 🧑‍💻 About Me
-- 🎓 I am currently studying **[Bachelor's, e.g., Computer Science]** at **MUN**.
+- 🎓 I am currently studying **[Bachelor's in Computer Science]** at **MUN**.
 - ⚡ Fun fact: **[I produce music as well!]**
 
 ---
