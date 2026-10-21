@@ -12,6 +12,6 @@ C# · ASP.NET Core · EF Core · PostgreSQL · React · Node.js · Flutter · Py
 - **[Fraud Detection](https://github.com/ArshDhadli/Transaction-Fraud)** – Random Forest model + Streamlit dashboard for real-time predictions
 - **[Game of Four](https://github.com/ArshDhadli/Game-of-Four)** – Java board game with two AI difficulty levels
 
-🏢 Apps org: [Axpensive](https://github.com/AxpensiveOrganization)
+🏢 [Axpensive](https://github.com/AxpensiveOrganization) – a practice org I created to learn GitHub organizations (repos, teams, permissions) and host my Flutter apps
 
 📫 asingh21@mun.ca · [LinkedIn](https://www.linkedin.com/in/arshdhadli)
