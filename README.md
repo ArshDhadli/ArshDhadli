@@ -12,9 +12,6 @@ C# · ASP.NET Core · EF Core · PostgreSQL · React · Node.js · Python · sci
 - **[Fraud Detection](link)** – Random Forest model + Streamlit dashboard for real-time predictions
 - **[Game of Four](link)** – Java board game with two AI difficulty levels
 
-### 💼 At TownSuite
-Built invoice OCR integration · improved cheque OCR 44 → 60 passing cases · automated Jenkins pipelines
-
 📫 asingh21@mun.ca · [LinkedIn](https://www.linkedin.com/in/arshdhadli)
 
 🎵 Fun fact: I also produce music.
