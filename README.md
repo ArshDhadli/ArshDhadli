@@ -1,21 +1,20 @@
-# 👋 Hi, I'm Arshpreet Singh!
+# Hi, I'm Arshpreet 👋
 
-### 🧑‍💻 About Me
-- 🎓 I am currently studying **Bachelor's in Computer Science** at **MUN**.
-- ⚡ Fun fact: **I produce music as well!**
+CS student at **Memorial University** (GPA 3.84) · **AI/ML Developer Co-op @ TownSuite**
+Looking for software / ML co-op roles for **2027**.
 
----
-<!--
-**ArshDhadli/ArshDhadli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 What I work with
+C# · ASP.NET Core · EF Core · PostgreSQL · React · Node.js · Python · scikit-learn · OpenCV · Docker · Jenkins
 
-Here are some ideas to get you started:
+### 🚀 Featured projects
+- **[Calendar Sync Backend](link)** – ASP.NET Core API syncing Obsidian vaults across devices with revision-based conflict handling, JWT auth, PostgreSQL
+- **[Landscaping Website](link)** – MERN full-stack site with admin dashboard · [Live](link)
+- **[Fraud Detection](link)** – Random Forest model + Streamlit dashboard for real-time predictions
+- **[Game of Four](link)** – Java board game with two AI difficulty levels
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 At TownSuite
+Built invoice OCR integration · improved cheque OCR 44 → 60 passing cases · automated Jenkins pipelines
+
+📫 asingh21@mun.ca · [LinkedIn](https://www.linkedin.com/in/arshdhadli)
+
+🎵 Fun fact: I also produce music.
