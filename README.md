@@ -13,5 +13,3 @@ C# · ASP.NET Core · EF Core · PostgreSQL · React · Node.js · Python · sci
 - **[Game of Four](link)** – Java board game with two AI difficulty levels
 
 📫 asingh21@mun.ca · [LinkedIn](https://www.linkedin.com/in/arshdhadli)
-
-🎵 Fun fact: I also produce music.
