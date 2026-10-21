@@ -2,6 +2,8 @@
 
 CS student at **Memorial University** (GPA 3.84) · **AI/ML Developer Co-op @ TownSuite**
 
+Looking for software / ML co-op roles for **2027**.
+
 ### 🔧 What I work with
 C# · ASP.NET Core · EF Core · PostgreSQL · React · Node.js · Flutter · Python · scikit-learn · OpenCV · Docker · Jenkins
 
@@ -14,10 +16,10 @@ C# · ASP.NET Core · EF Core · PostgreSQL · React · Node.js · Flutter · Py
 
 🏢 [Axpensive](https://github.com/AxpensiveOrganization) – a practice org I created to learn GitHub organizations (repos, teams, permissions) and host my Flutter apps
 
-📫 asingh21@mun.ca · [LinkedIn](https://www.linkedin.com/in/arshdhadli)
-
-
+### 🎵 My Music
+Outside of code I write, rap and produce. Here's **Harak** a short snippet from one of my music project:
 
 https://github.com/user-attachments/assets/db38205f-37f8-4f5c-9793-1e4aceb45512
 
-
+---
+📫 asingh21@mun.ca · [LinkedIn](https://www.linkedin.com/in/arshdhadli)
