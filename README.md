@@ -2,8 +2,6 @@
 
 CS student at **Memorial University** (GPA 3.84) · **AI/ML Developer Co-op @ TownSuite**
 
-Looking for software / ML co-op roles for **2027**.
-
 ### 🔧 What I work with
 C# · ASP.NET Core · EF Core · PostgreSQL · React · Node.js · Flutter · Python · scikit-learn · OpenCV · Docker · Jenkins
 
