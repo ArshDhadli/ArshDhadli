@@ -4,7 +4,7 @@ CS student at **Memorial University** (GPA 3.84) · **AI/ML Developer Co-op @ To
 Looking for software / ML co-op roles for **2027**.
 
 ### 🔧 What I work with
-C# · ASP.NET Core · EF Core · PostgreSQL · React · Node.js · Python · scikit-learn · OpenCV · Docker · Jenkins
+C# · ASP.NET Core · EF Core · PostgreSQL · React · Node.js · Flutter · Python · scikit-learn · OpenCV · Docker · Jenkins
 
 ### 🚀 Featured projects
 - **[Calendar Sync Backend](link)** – ASP.NET Core API syncing Obsidian vaults across devices with revision-based conflict handling, JWT auth, PostgreSQL
