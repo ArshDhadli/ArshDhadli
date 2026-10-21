@@ -7,6 +7,8 @@ Looking for software / ML co-op roles for **2027**.
 C# · ASP.NET Core · EF Core · PostgreSQL · React · Node.js · Flutter · Python · scikit-learn · OpenCV · Docker · Jenkins
 
 ### 🚀 Featured projects
+- **Obsidian Calendar** (Flutter) + **Calendar Sync Backend** (ASP.NET Core) – cross-platform calendar app for Obsidian vaults, synced across iOS & Android *(in progress)*
+- [Floating Timer](https://github.com/AxpensiveOrganization/FloatingTimer) – Flutter countdown timer app
 - **[Calendar Sync Backend](link)** – ASP.NET Core API syncing Obsidian vaults across devices with revision-based conflict handling, JWT auth, PostgreSQL
 - **[Landscaping Website](link)** – MERN full-stack site with admin dashboard · [Live](link)
 - **[Fraud Detection](link)** – Random Forest model + Streamlit dashboard for real-time predictions
